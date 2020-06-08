@@ -58,7 +58,7 @@ rent[:two_pieces_owned] = 50
 rent[:three_pieces_owned] = 100
 rent[:four_pieces_owned] = 200
 
- 
+
 
 
 end
