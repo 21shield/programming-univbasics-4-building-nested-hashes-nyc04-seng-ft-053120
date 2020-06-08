@@ -70,4 +70,6 @@ def monopoly_with_fourth_tier
     mortgage[:pennsylvania_railroad][:mortgage_value] = 200
     mortgage[:b_and_o_railroad][:mortgage_value] = 400
     mortgage[:shortline_railroad][:mortgage_value] = 800
+    
+    third_tier
 end
