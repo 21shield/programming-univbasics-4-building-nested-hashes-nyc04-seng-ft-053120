@@ -36,7 +36,11 @@ rent[:one_piece_owned] = 25
 rent[:two_pieces_owned] = 50
 rent[:three_pieces_owned] = 100
 rent[:four_pieces_owned] = 200
-
+places = second_tier[:railroads][:names]
+places[:reading_railroad] = {}
+places[:pennsylvania_railroad] = {}
+places[:b_and_o_railroad] = {}
+places[:shortline_railroad] = {}
 second_tier
 end
 
